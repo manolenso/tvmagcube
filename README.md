@@ -1,1 +1,1 @@
-essai de mapping avec la library three.js
+Mapping d'une converture TVmag avec la library three.js
